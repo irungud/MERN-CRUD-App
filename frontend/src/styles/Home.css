@@ -1,0 +1,71 @@
+.home{
+    background-color: #efefef;
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.home-main{
+    background-color: #fff;
+    padding: 50px;
+    border-radius: 15px;
+    width: 75%;
+}
+.home-main h1{
+    color: #800000;
+    font-weight: 700;
+}
+.home-main table{
+    width: 100%;
+    margin-top: 20px;
+}
+.home-main thead{
+    width: 100%;
+    background-color: #efefef;
+    height: 35px;
+}
+.home-main th{
+    padding-left: 10px;
+}
+.home-main tbody{
+    height: 35px;
+}
+.home-main tr{
+    border-bottom: 1px solid #efefef;
+}
+.home-main td{
+    padding-left: 10px;
+}
+.edit-btn{
+    background-color: #800000;
+    color: #fff;
+    border: 0;
+    outline: 0;
+    border-radius: 3px;
+    cursor: pointer;
+    width: 80px;
+    height: 25px;
+    margin-left: 10px;
+}
+.delete-btn{
+    background-color: #fff;
+    color: #800000;
+    border: 2px solid #800000;
+    outline: 0;
+    border-radius: 3px;
+    cursor: pointer;
+    width: 80px;
+    height: 25px;
+    margin-left: 10px;
+}
+.add-user-btn{
+    background-color: #800000;
+    color: #fff;
+    width: 120px;
+    height: 30px;
+    border: 0;
+    outline: 0;
+    margin-top: 30px;
+    border-radius: 3px;
+}

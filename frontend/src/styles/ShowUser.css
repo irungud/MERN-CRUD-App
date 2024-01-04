@@ -1,0 +1,35 @@
+.show-user{
+    width: 100%;
+    min-height: 100vh;
+    background-color: #efefef;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.user-details{
+    background-color: #fff;
+    padding: 50px;
+    border-radius: 20px;
+    width: 80%;
+}
+.user-details h1{
+    font-size: 45px;
+    margin-top: 30px;
+    text-align: center;
+}
+.show-user-details{
+    margin-top: 30px;
+    padding: 50px;
+    border-radius: 20px;
+    width: 400px;
+    font-size: 18px;
+    background-color: #efefef;
+    width: 100%;
+}
+.user-detail{
+    margin-top: 12px;
+}
+.show-user-details label{
+    font-weight: 700;
+    color: #780000;
+}

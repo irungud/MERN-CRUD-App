@@ -1,0 +1,42 @@
+.create{
+    background-color: #efefef;
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.create-details{
+    background-color: #fff;
+    padding: 50px;
+    border-radius: 20px;
+}
+.create-details h1{
+    margin-top: 30px;
+    font-size: 45px;
+}
+.create-details form{
+    display: flex;
+    flex-direction: column;
+    margin-top: 30px;
+}
+.create-details form input{
+    height: 35px;
+    width: 500px;
+    margin-top: 10px;
+    border: 1px solid #780000;
+    outline: 0;
+    border-radius: 5px;
+    padding-left: 20px;
+}
+.save-btn{
+    width: 150px;
+    height: 35px;
+    margin-top: 30px;
+    border: 0;
+    outline: 0;
+    border-radius: 5px;
+    background-color: #780000;
+    color: #fff;
+    cursor: pointer;
+}

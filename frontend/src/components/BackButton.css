@@ -1,0 +1,10 @@
+.back-btn{
+    background-color: #780000;
+    color: #fff;
+    cursor: pointer;
+    width: 150px;
+    height: 35px;
+    border: 0;
+    outline: 0;
+    border-radius: 5px;
+}
